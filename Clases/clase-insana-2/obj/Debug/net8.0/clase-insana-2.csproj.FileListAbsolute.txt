@@ -1,0 +1,14 @@
+/home/et12alumno/Escritorio/Clases/clase-insana-2/obj/Debug/net8.0/clase-insana-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/Clases/clase-insana-2/obj/Debug/net8.0/clase-insana-2.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/Clases/clase-insana-2/obj/Debug/net8.0/clase-insana-2.AssemblyInfo.cs
+/home/et12alumno/Escritorio/Clases/clase-insana-2/obj/Debug/net8.0/clase-insana-2.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/Clases/clase-insana-2/bin/Debug/net8.0/clase-insana-2
+/home/et12alumno/Escritorio/Clases/clase-insana-2/bin/Debug/net8.0/clase-insana-2.deps.json
+/home/et12alumno/Escritorio/Clases/clase-insana-2/bin/Debug/net8.0/clase-insana-2.runtimeconfig.json
+/home/et12alumno/Escritorio/Clases/clase-insana-2/bin/Debug/net8.0/clase-insana-2.dll
+/home/et12alumno/Escritorio/Clases/clase-insana-2/bin/Debug/net8.0/clase-insana-2.pdb
+/home/et12alumno/Escritorio/Clases/clase-insana-2/obj/Debug/net8.0/clase-insana-2.dll
+/home/et12alumno/Escritorio/Clases/clase-insana-2/obj/Debug/net8.0/refint/clase-insana-2.dll
+/home/et12alumno/Escritorio/Clases/clase-insana-2/obj/Debug/net8.0/clase-insana-2.pdb
+/home/et12alumno/Escritorio/Clases/clase-insana-2/obj/Debug/net8.0/clase-insana-2.genruntimeconfig.cache
+/home/et12alumno/Escritorio/Clases/clase-insana-2/obj/Debug/net8.0/ref/clase-insana-2.dll
